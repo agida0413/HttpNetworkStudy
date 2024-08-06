@@ -1,6 +1,6 @@
 # HTTP Study 
 
-> ***You can doc from directory (NetWork_HTTP_Study_doc)*** 
+> ***You can READ doc from directory (NetWork_HTTP_Study_doc)*** 
 >
 > 
 >
