@@ -19,4 +19,7 @@
 > #### **PART 7 - HTTP 캐시와 조건부 요청** 
 
 수강 : 김영한  모든 개발자를 위한 HTTP기본지식
-[1438806-326277-13018800.pdf](https://github.com/user-attachments/files/16548409/1438806-326277-13018800.pdf)
+
+
+https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC
+
